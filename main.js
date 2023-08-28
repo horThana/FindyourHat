@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')({ sigint: true });
 const clear = require('clear-screen');//every turn clear the screen that meant you will not get new field in time you choose the direction
 const hat = '👑';
 const hole = '⭕';
